@@ -2,10 +2,10 @@
   <div
     class="login flex-column flex-justify-center flex-align-center m0 b0">
     <a-image
-      style="width: 17vw; height: 10vw; margin-bottom: 50px"
+      style="width: 17vw; height: 17vw; margin-bottom: 50px"
       :src="djiLogo"
     />
-    <p class="fz35 pb50" style="color: #2d8cf0">Cloud API Demo</p>
+    <p class="fz35 pb50" style="color: #2d8cf0">清泉水务无人机巡线系统</p>
     <a-form
       layout="inline"
       :model="formState"
